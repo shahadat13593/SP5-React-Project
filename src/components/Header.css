@@ -1,0 +1,53 @@
+.header {
+  background-color: #1a1c24;
+  height: 9.6rem;
+  display: grid;
+  grid-template-columns: 2.8fr 1fr 12rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 9.6rem;
+}
+.logo-img {
+  height: 3rem;
+}
+.main-nav {
+}
+.nav-list {
+  list-style: none;
+  display: flex;
+  gap: 3.2rem;
+}
+.nav-list-item {
+}
+.nav-item-link {
+  color: #e8e8e9;
+  font-size: 1.8rem;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s;
+}
+
+.nav-item-link:hover,
+.nav-item-link:active {
+  border-bottom: #e8e8e9 solid 1px;
+  padding-bottom: 1px;
+}
+
+.cta-btn-container {
+  align-self: center;
+}
+.cta-btn {
+  border: none;
+  font-size: 1.8;
+  background-color: #fff;
+  padding: 1.6rem 3.2rem;
+  font-weight: 700;
+  transition: all ease-in-out 0.3s;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.cta-btn:hover {
+  background-color: #000000;
+  color: #fff;
+  box-shadow: inset 0 0 0 3px #fff;
+}

@@ -1,0 +1,17 @@
+.section-media {
+  padding: 4.2rem 0rem;
+  background-color: #27303b;
+}
+.media-box {
+  display: flex;
+  gap: 3.2rem;
+}
+
+.media-icon {
+  color: #4e5c6d;
+  font-size: 3.2rem;
+}
+
+.media-icon:hover {
+  color: #fff;
+}

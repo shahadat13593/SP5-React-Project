@@ -1,0 +1,41 @@
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal {
+  position: 3rem;
+  max-width: 50rem;
+  padding: 3rem;
+  margin: 20rem auto;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.modal-inside {
+}
+.modal-title {
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+  font-weight: 500;
+}
+
+.from-title {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.form label,
+.form input {
+  display: block;
+  text-align: left;
+  width: 100%;
+  margin: 10px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 1.2em;
+}

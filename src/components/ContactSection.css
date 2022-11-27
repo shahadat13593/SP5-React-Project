@@ -1,0 +1,22 @@
+.section-contact {
+  padding: 9.6rem 0rem;
+  background-image: linear-gradient(-133deg, #7282eb, #74aee3);
+}
+.contact-box {
+  height: 30vh;
+}
+
+.contact-title:link,
+.contact-title:visited {
+  color: #fff;
+  font-size: 7rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.3s;
+  padding-bottom: 1rem;
+}
+
+.contact-title:hover,
+.contact-title:active {
+  border-bottom: 5px solid #fff;
+}

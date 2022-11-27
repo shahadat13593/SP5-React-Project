@@ -1,0 +1,9 @@
+.section-course {
+  padding: 6.4rem 0rem 9.6rem 0rem;
+}
+.course-cards {
+  margin-top: 6.4rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 7.6rem;
+}
