@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Sp5 React Project
+## Shahadat Hossain
+## ID: 201-15-13593
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
