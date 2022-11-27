@@ -1,13 +1,11 @@
 # Sp5 React Project
-## Shahadat Hossain
-## ID: 201-15-13593
-
-
-
 ---
+### Shahadat Hossain
+### ID: 201-15-13593
+### shahadat15-13593@diu.edu.bd
 
-In the project directory, you can run:
 
-### `npm start`
+
+
 
 
