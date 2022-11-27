@@ -21,8 +21,8 @@ function Footer() {
             </a>
             <div>
               <p className="copyright">
-                Copyright &copy; <span class="year">2022</span> by Irnode, Inc.
-                All rights reserved.
+                Copyright &copy; <span className="year">2022</span> by Irnode,
+                Inc. All rights reserved.
               </p>
             </div>
           </div>
